@@ -1,0 +1,7 @@
+method,start_location,metric,k_exponent,slope
+Euler,Pericenter,final_fractional_energy_error,0.4435,-0.4435
+Euler,Apocenter,final_fractional_energy_error,0.354,-0.354
+RK4,Pericenter,final_fractional_energy_error,8.6051,-8.6051
+RK4,Apocenter,final_fractional_energy_error,8.6053,-8.6053
+Verlet,Pericenter,energy_range,4.8797,-4.8797
+Verlet,Apocenter,energy_range,4.8789,-4.8789
